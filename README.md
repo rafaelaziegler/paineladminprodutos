@@ -3,14 +3,23 @@
 Este é um aplicativo JavaFX que funciona como um painel administrativo para gerenciamento de produtos. Ele consome uma API RESTful (desenvolvida em Spring Boot) para realizar operações de CRUD (Create, Read, Update, Delete) via JSON.
 
 🎯 Funcionalidades
+
 ✅ Listagem de produtos
+
 ✅ Cadastro de novos produtos
+
 ✅ Edição de produtos existentes
+
 ✅ Exclusão de produtos
+
 ✅ Busca por ID
+
 ✅ Contador de registros (Total de produtos)
+
 ✅ Validação de campos obrigatórios
+
 ✅ Interface com CSS personalizado (cores, fontes e botões)
+
 ✅ Comunicação com a API via requisições HTTP (GET, POST, PUT, DELETE)
 
 🔗 Link da API REST (Trabalho 1 - N2)
