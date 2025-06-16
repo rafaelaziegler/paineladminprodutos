@@ -5,21 +5,13 @@ Este é um aplicativo JavaFX que funciona como um painel administrativo para ger
 🎯 Funcionalidades
 
 ✅ Listagem de produtos
-
 ✅ Cadastro de novos produtos
-
 ✅ Edição de produtos existentes
-
 ✅ Exclusão de produtos
-
 ✅ Busca por ID
-
 ✅ Contador de registros (Total de produtos)
-
 ✅ Validação de campos obrigatórios
-
 ✅ Interface com CSS personalizado (cores, fontes e botões)
-
 ✅ Comunicação com a API via requisições HTTP (GET, POST, PUT, DELETE)
 
 🔗 Link da API REST (Trabalho 1 - N2)
