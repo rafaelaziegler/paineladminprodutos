@@ -1,4 +1,5 @@
 📋 Painel Administrativo - Produtos (JavaFX + API REST)
+
 Este é um aplicativo JavaFX que funciona como um painel administrativo para gerenciamento de produtos. Ele consome uma API RESTful (desenvolvida em Spring Boot) para realizar operações de CRUD (Create, Read, Update, Delete) via JSON.
 
 🎯 Funcionalidades
